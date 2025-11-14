@@ -1,0 +1,29 @@
+{
+    "SetUpText": "Welcome! This algorithm will demonstrate a graph traversal, using the DFS algorithm.\n\nRight click to add the node, left click to add edges between nodes. You can also delete edges and nodes, just press \"delete\"!\n\nTo start the traversal click a start button.",
+    "VertexOverviewText": {
+        "Vertex": "Current Vertex: ",
+        "NoEdges": "This vertex has no outgoing edges. ",
+        "VisitedVertexes": "Visited vertices: ",
+        "UnvisitedVertexes": "Unvisited vertices: ",
+        "EdgesOrder": "We will check edges in order of their connection."
+    },
+    "CheckingEdgeText": {
+        "Vertex": "Current Vertex: ",
+        "Edge": "Checking edge to vertex: ",
+        "AnotherVertex": "Checking connection to vertex: ",
+        "InvalidEdge": " This vertex has already been visited. We skip this edge.",
+        "ValidEdge": " This vertex is unvisited. We can traverse this edge."
+    },
+    "VertexEndText": {
+        "Vertex": "Current Vertex: ",
+        "NoUnvisitedVertexes": "All adjacent vertices have been visited.",
+        "ReturnToParent": "Returning to the parent vertex."
+    },
+    "EndText": {
+        "Conclusion": "Algorithm completed! The traversal has finished.",
+        "VisitedVertexes": "Visited vertices in order: ",
+        "UnvisitedVertexes": "Unvisited vertices: "
+    },
+    "StartWithoutStartingVertexText": "Error: No starting vertex has been selected.\n\nPress \"s\", while hovering above the vertex to select it."
+}
+
